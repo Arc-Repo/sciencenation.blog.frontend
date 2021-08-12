@@ -1,0 +1,23 @@
+[
+  {
+    "name": "articles-slug",
+    "path": "/articles/:slug?",
+    "component": "F:\\\\KIDZEE\\\\PROGRAMMING\\\\MUSTECH WEBSITE\\\\Science Nation\\\\blog\\\\frontend\\\\pages\\\\articles\\\\_slug.vue",
+    "chunkName": "pages/articles/_slug",
+    "_name": "_0e3c1d39"
+  },
+  {
+    "name": "categories-slug",
+    "path": "/categories/:slug?",
+    "component": "F:\\\\KIDZEE\\\\PROGRAMMING\\\\MUSTECH WEBSITE\\\\Science Nation\\\\blog\\\\frontend\\\\pages\\\\categories\\\\_slug.vue",
+    "chunkName": "pages/categories/_slug",
+    "_name": "_456e2afa"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "F:\\\\KIDZEE\\\\PROGRAMMING\\\\MUSTECH WEBSITE\\\\Science Nation\\\\blog\\\\frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_013cb544"
+  }
+]
