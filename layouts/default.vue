@@ -7,7 +7,7 @@
             <a href="#modal-full" uk-toggle><span uk-icon="icon: table" /></a>
           </li>
           <li>
-            <nuxt-link to="/" tag="a">Strapi Blog</nuxt-link>
+            <nuxt-link to="/" tag="a">Science Nation</nuxt-link>
           </li>
         </ul>
       </div>
@@ -45,7 +45,7 @@
             uk-height-viewport
           />
           <div class="uk-padding-large">
-            <h1 style="font-family: Staatliches">Strapi blog</h1>
+            <h1 style="font-family: Staatliches">Science Nation blog</h1>
             <div class="uk-width-1-2@s">
               <ul class="uk-nav-primary uk-nav-parent-icon" uk-nav>
                 <li v-for="category in categories" :key="category.id">
@@ -62,7 +62,7 @@
                 </li>
               </ul>
             </div>
-            <p class="uk-text-light">Built with strapi</p>
+            <p class="uk-text-light">&copy 2021 Science Nation</p>
           </div>
         </div>
       </div>
