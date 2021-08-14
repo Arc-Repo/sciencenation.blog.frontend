@@ -7,14 +7,14 @@ h1  {
   font-size: 120px;
 }
 
-research{
+.research{
   background-color: #b1c9c6;
   padding: 2%;
 }
 
 h4{
   font-size: 15px;
-  text-align: centre;
+  text-align: center;
   padding: 3px;
   margin: 0;
 }
@@ -22,7 +22,7 @@ h4{
 button{
   background-color: #008CBA;
   border: none;
-  width: 30px;
+  width: auto;
   transition-duration: 0.6s;
   border-radius: 15px;
   color: white;
@@ -35,7 +35,7 @@ button{
 
 button:hover{
   color: black;
-  width: 32px;
+  font-weight: 700;
   background-color: #008CBA;
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
